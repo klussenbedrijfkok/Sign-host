@@ -1,5 +1,20 @@
 # Vragen voor de organisatie en Signhost
 
+## Eerst beantwoorden
+
+Deze vragen kunnen het geschiktheidsoordeel veranderen. Ze volgen uit de [toetsing van het Gemini-onderzoek](toetsing-gemini-onderzoek.md).
+
+Beantwoord op 11 november 2026: de financiering is Wlz en Wmo, pgb loopt nog maar wordt niet meer aangenomen, het dossiersysteem is ZilliZ, en de eis van een natte handtekening komt van een collega van de zorgadministratie.
+
+1. **Collega zorgadministratie:** voor welk document geldt de natte handtekening volgens jou, en waar komt dat vandaan (zorgkantoor, gemeente, accountant, een oude instructie)?
+2. **Organisatie:** welke documenten worden nu getekend, en met welk zorgkantoor en welke gemeenten zijn er contracten? Graag de lege modellen en de voorwaarden aanleveren.
+3. **ZilliZ:** wat legt ondertekenen via het cliëntportaal vast (wie, wanneer, welke versie), en is er een koppeling met Signhost of een andere ondertekendienst? Legt ZilliZ vast wie de vertegenwoordiger van een cliënt is?
+4. **Signhost:** welk eIDAS-niveau levert elke route op (krabbel, sms, iDIN, Signhost QES)? Graag schriftelijk. De helppagina deelt sms in bij eenvoudige verificaties.
+5. **Signhost:** kunnen getekende documenten na 30 dagen nog worden opgehaald? Is de termijn instelbaar, en geldt hetzelfde via de API?
+6. **Signhost:** wat is de actuele verwerkersovereenkomst, wie zijn de subverwerkers en waar worden documenten verwerkt?
+7. **Zorgkantoor en gemeenten:** stelt het contract of het controleprotocol eisen aan de handtekening onder de zorgovereenkomst of het zorgplan, en wordt een elektronische handtekening bij een materiële controle geaccepteerd?
+8. **Privacyverantwoordelijke:** is een DPIA nodig bij het verwachte volume en de gekozen inrichting?
+
 ## Organisatie en zorgadministratie
 
 1. Welke zorg levert de organisatie en via welke financieringsvormen?
@@ -14,6 +29,8 @@
 10. Wie neemt het werk over bij afwezigheid van de thuiswerkende medewerker?
 11. Wie beoordeelt de juridische twijfelpunten en wie beheert privacy, toegang en bewaartermijnen?
 12. Voor wie is de video bedoeld: administratie, begeleiders, cliënten of meerdere groepen?
+13. Zijn de laptops van thuiswerkers versleuteld en beheerd, en mogen getekende documenten daar tijdelijk worden opgeslagen?
+14. Legt het dossiersysteem vast wie een getekend document heeft toegevoegd en ingezien?
 
 ## Signhost
 
@@ -31,6 +48,9 @@ Vraag bij antwoorden om actuele documentatie en om vermelding van het toepasseli
 10. Welke export- en integratiemogelijkheden zijn er voor ons nog te bevestigen dossiersysteem?
 11. Wat kost het verwachte gebruik, inclusief identificatie, gebruikers, transacties, ondersteuning en eventuele koppelingen?
 12. Wat ontvangen we bij beëindiging van de dienstverlening en hoe houden we eerder getekende documenten controleerbaar?
+13. Welke entiteit verzegelt de documenten, met welk soort certificaat en tijdstempel, en waar is die dienst op de Europese vertrouwenslijst te vinden?
+14. Welke certificaten zijn nu geldig (ISO 27001, NEN 7510, SOC 2), met welke scope en einddatum?
+15. Welke verificatiemethoden zijn voor ons beschikbaar? DigiD is volgens de helppagina voorbehouden aan (semi)overheid.
 
 ## Financier of juridisch beoordelaar
 
