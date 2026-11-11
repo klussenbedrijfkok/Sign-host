@@ -1,5 +1,18 @@
 # Vragen voor de organisatie en Signhost
 
+## Eerst beantwoorden
+
+Deze vragen kunnen het geschiktheidsoordeel veranderen. Ze volgen uit de [toetsing van het Gemini-onderzoek](toetsing-gemini-onderzoek.md).
+
+1. **Organisatie:** welke zorg wordt geleverd en via welke financiering? Komen pgb-zorgovereenkomsten voor, en hoeveel?
+2. **Organisatie:** wie heeft gezegd dat een natte handtekening verplicht is, voor welk document, en waar staat die eis?
+3. **Organisatie:** welk dossiersysteem wordt gebruikt, en legt dat vast wie de vertegenwoordiger van een cliënt is?
+4. **Signhost:** welk eIDAS-niveau levert elke route op (krabbel, sms, iDIN, Signhost QES)? Graag schriftelijk. De helppagina deelt sms in bij eenvoudige verificaties.
+5. **Signhost:** kunnen getekende documenten na 30 dagen nog worden opgehaald? Is de termijn instelbaar, en geldt hetzelfde via de API?
+6. **Signhost:** wat is de actuele verwerkersovereenkomst, wie zijn de subverwerkers en waar worden documenten verwerkt?
+7. **SVB of verstrekker, alleen bij pgb:** wordt het voorgeschreven formulier geaccepteerd als het via een ondertekendienst zoals Signhost is getekend, of alleen met pen of de ondertekenfunctie van Adobe Acrobat Reader?
+8. **Privacyverantwoordelijke:** is een DPIA nodig bij het verwachte volume en de gekozen inrichting?
+
 ## Organisatie en zorgadministratie
 
 1. Welke zorg levert de organisatie en via welke financieringsvormen?
@@ -14,6 +27,8 @@
 10. Wie neemt het werk over bij afwezigheid van de thuiswerkende medewerker?
 11. Wie beoordeelt de juridische twijfelpunten en wie beheert privacy, toegang en bewaartermijnen?
 12. Voor wie is de video bedoeld: administratie, begeleiders, cliënten of meerdere groepen?
+13. Zijn de laptops van thuiswerkers versleuteld en beheerd, en mogen getekende documenten daar tijdelijk worden opgeslagen?
+14. Legt het dossiersysteem vast wie een getekend document heeft toegevoegd en ingezien?
 
 ## Signhost
 
@@ -31,6 +46,9 @@ Vraag bij antwoorden om actuele documentatie en om vermelding van het toepasseli
 10. Welke export- en integratiemogelijkheden zijn er voor ons nog te bevestigen dossiersysteem?
 11. Wat kost het verwachte gebruik, inclusief identificatie, gebruikers, transacties, ondersteuning en eventuele koppelingen?
 12. Wat ontvangen we bij beëindiging van de dienstverlening en hoe houden we eerder getekende documenten controleerbaar?
+13. Welke entiteit verzegelt de documenten, met welk soort certificaat en tijdstempel, en waar is die dienst op de Europese vertrouwenslijst te vinden?
+14. Welke certificaten zijn nu geldig (ISO 27001, NEN 7510, SOC 2), met welke scope en einddatum?
+15. Welke verificatiemethoden zijn voor ons beschikbaar? DigiD is volgens de helppagina voorbehouden aan (semi)overheid.
 
 ## Financier of juridisch beoordelaar
 
