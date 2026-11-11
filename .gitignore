@@ -1,0 +1,12 @@
+# Lokale contracten, interne informatie en onbewerkte onderzoeksresultaten
+/invoer/vertrouwelijk/*
+!/invoer/vertrouwelijk/.gitkeep
+
+# Lokale instellingen en tijdelijke bestanden
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
