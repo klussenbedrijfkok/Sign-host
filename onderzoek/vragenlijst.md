@@ -4,13 +4,15 @@
 
 Deze vragen kunnen het geschiktheidsoordeel veranderen. Ze volgen uit de [toetsing van het Gemini-onderzoek](toetsing-gemini-onderzoek.md).
 
-1. **Organisatie:** welke zorg wordt geleverd en via welke financiering? Komen pgb-zorgovereenkomsten voor, en hoeveel?
-2. **Organisatie:** wie heeft gezegd dat een natte handtekening verplicht is, voor welk document, en waar staat die eis?
-3. **Organisatie:** welk dossiersysteem wordt gebruikt, en legt dat vast wie de vertegenwoordiger van een cliënt is?
+Beantwoord op 11 november 2026: de financiering is Wlz en Wmo, pgb loopt nog maar wordt niet meer aangenomen, het dossiersysteem is ZilliZ, en de eis van een natte handtekening komt van een collega van de zorgadministratie.
+
+1. **Collega zorgadministratie:** voor welk document geldt de natte handtekening volgens jou, en waar komt dat vandaan (zorgkantoor, gemeente, accountant, een oude instructie)?
+2. **Organisatie:** welke documenten worden nu getekend, en met welk zorgkantoor en welke gemeenten zijn er contracten? Graag de lege modellen en de voorwaarden aanleveren.
+3. **ZilliZ:** wat legt ondertekenen via het cliëntportaal vast (wie, wanneer, welke versie), en is er een koppeling met Signhost of een andere ondertekendienst? Legt ZilliZ vast wie de vertegenwoordiger van een cliënt is?
 4. **Signhost:** welk eIDAS-niveau levert elke route op (krabbel, sms, iDIN, Signhost QES)? Graag schriftelijk. De helppagina deelt sms in bij eenvoudige verificaties.
 5. **Signhost:** kunnen getekende documenten na 30 dagen nog worden opgehaald? Is de termijn instelbaar, en geldt hetzelfde via de API?
 6. **Signhost:** wat is de actuele verwerkersovereenkomst, wie zijn de subverwerkers en waar worden documenten verwerkt?
-7. **SVB of verstrekker, alleen bij pgb:** wordt het voorgeschreven formulier geaccepteerd als het via een ondertekendienst zoals Signhost is getekend, of alleen met pen of de ondertekenfunctie van Adobe Acrobat Reader?
+7. **Zorgkantoor en gemeenten:** stelt het contract of het controleprotocol eisen aan de handtekening onder de zorgovereenkomst of het zorgplan, en wordt een elektronische handtekening bij een materiële controle geaccepteerd?
 8. **Privacyverantwoordelijke:** is een DPIA nodig bij het verwachte volume en de gekozen inrichting?
 
 ## Organisatie en zorgadministratie

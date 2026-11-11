@@ -63,7 +63,9 @@ Deze punten zijn verwerkt in de [contractenmatrix](contractenmatrix.md), de [vra
 
 ## Wat nu nodig is
 
-1. Antwoord op de drie vragen bovenaan de [vragenlijst](vragenlijst.md): welke zorg en financiering, welke documenten, en waar de genoemde eis van een natte handtekening vandaan komt.
+Sinds de toetsing heeft de organisatie opgegeven dat de financiering Wlz en Wmo is, dat pgb afloopt, dat ZilliZ het dossiersysteem is en dat de eis van een natte handtekening van een collega komt. Pgb valt daarmee buiten de Signhost-werkwijze.
+
+1. Navraag bij de collega over het document en de herkomst van de eis, en de voorwaarden van zorgkantoor en gemeenten.
 2. Schriftelijke bevestiging van Signhost over het handtekeningniveau per route, het zegel en tijdstempel, de bewaartermijnen, de subverwerkers en de certificaten.
-3. Bij pgb: navraag bij de SVB of de verstrekker over acceptatie van een elektronisch getekend formulier.
+3. Navraag bij ZilliZ over ondertekenen in het cliëntportaal en een eventuele koppeling.
 4. Een pilot met fictieve gegevens, waarin het downloaden binnen 30 dagen en de validatie van het getekende bestand worden getoetst.

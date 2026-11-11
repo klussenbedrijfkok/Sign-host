@@ -20,12 +20,15 @@ Een leverancierspagina onderbouwt productclaims, maar vormt op zichzelf geen ona
 | SRC-12 | [Verwerkersovereenkomst op entrust.nl](https://entrust.nl/wp-content/uploads/2021/12/Verwerkersovereenkomst-Entrust.pdf), 2021 | Document van een administratiekantoor in Apeldoorn met dezelfde naam. **Niet van toepassing op Signhost**; niet gebruiken | Geopend |
 | SRC-13 | [Artikel 3:15a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&boek=3&titeldeel=1&afdeling=1A&artikel=15a), tekst geldend vanaf 1 juli 2025 | Rechtsgevolg van elektronische handtekeningen | Geopend |
 | SRC-14 | [HR 14 juni 2019, ECLI:NL:HR:2019:957](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:957) | Wet Bopz: geneeskundige verklaring vereist een geavanceerde of gekwalificeerde elektronische handtekening | Niet te openen; inhoud via gepubliceerde samenvattingen |
+| SRC-15 | [ZilliZ, cliëntportaal](https://zilliz.nl/waarom-zilliz/voordelen-van-zilliz/online-zorgplan-in-zilliz/) en [helptekst digitaal ondertekenen](https://zilliz.nl/wp-content/uploads/2020/01/Helptekst-digitaal-ondertekenen.pdf), 2020 | ZilliZ heeft een eigen functie om dossieritems via het cliëntportaal te laten ondertekenen met "ik ga akkoord". Leveranciersclaim | Niet te openen; alleen zoekresultaat |
+| INT-01 | Opgave van de organisatie, 11 november 2026 | Financiering Wlz en Wmo; pgb loopt nog maar wordt niet meer aangenomen; dossiersysteem is ZilliZ; de eis van een natte handtekening komt van een collega van de zorgadministratie | Intern |
 
 ## Nog te raadplegen bronnen
 
 - De actuele geconsolideerde eIDAS-verordening.
 - De wettekst van de artikelen 6:227a, 7:447, 7:450, 7:454 en 7:465 BW, de artikelen 156a en 159 Rv, en de bewaartermijnen in Wmo 2015 en Jeugdwet, voor zover van toepassing.
-- Actuele voorschriften van de betrokken financier, gemeente, zorgkantoor, verzekeraar of SVB.
+- De contracten en inkoopvoorwaarden van het zorgkantoor (Wlz) en de gemeenten (Wmo) waarmee de organisatie werkt.
+- Documentatie van ZilliZ over ondertekenen in het cliëntportaal, koppelingen en logging.
 - De verwerkersovereenkomst, subverwerkerslijst en actuele certificaten van Signhost, rechtstreeks van de leverancier.
 - De vermelding van de gebruikte vertrouwensdienst op de Europese vertrouwenslijst.
 - Interne contractmodellen, instructies en bevoegdhedenregeling.
@@ -34,7 +37,7 @@ Een leverancierspagina onderbouwt productclaims, maar vormt op zichzelf geen ona
 
 | ID | Bewering | Status | Onderbouwing of benodigd bewijs |
 | --- | --- | --- | --- |
-| B-01 | Voor een van onze zorgcontracten is een natte handtekening verplicht | Onbevestigd signaal | Geen wettelijke papierplicht gevonden. Het enige concrete voorbeeld van Gemini (SVB) houdt geen stand, zie B-04. Nodig: contracttype en exacte bepaling of afzender van de eis |
+| B-01 | Voor een van onze zorgcontracten is een natte handtekening verplicht | Onbevestigd signaal | De eis komt van een collega van de zorgadministratie; een document of bepaling is niet genoemd (INT-01). Geen wettelijke papierplicht gevonden. Nodig: bij de collega navragen om welk document het gaat en waarop de uitspraak berust, en de voorwaarden van zorgkantoor en gemeenten nalopen |
 | B-02 | Een aangeboden Signhost-route voldoet voor onze zorgovereenkomst | Nog te onderzoeken | Contracteis, concrete methode, configuratie en schriftelijke bevestiging van het handtekeningniveau |
 | B-03 | De zorgadministratie kan het volledige proces vanuit huis uitvoeren | Nog te beproeven | Procesafspraken, toegang, dossieropslag en pilot |
 | B-04 | De SVB weigert elektronisch getekende pgb-zorgovereenkomsten | Niet bevestigd | Het formulier versie 2026 staat pen of de ondertekenfunctie van Adobe Acrobat Reader toe en verbiedt alleen een getypte handtekening (SRC-06). Acceptatie van een via Signhost getekend formulier navragen bij SVB of verstrekker |
@@ -49,6 +52,9 @@ Een leverancierspagina onderbouwt productclaims, maar vormt op zichzelf geen ona
 | B-13 | Uit HR 2019:957 volgt dat een geavanceerde handtekening volstaat voor zorgcontracten | Te ruim | De uitspraak betreft de Wet Bopz (SRC-14). Toepassing op andere documenten is een eigen gevolgtrekking |
 | B-14 | Een DPIA is wettelijk verplicht | Nog te beoordelen | Aannemelijk bij gezondheidsgegevens op grotere schaal; beoordeling door de privacyverantwoordelijke |
 | B-15 | Start, Basic en Plus kosten €99, €297 en €594 per jaar | Aannemelijk, niet rechtstreeks gezien | SRC-11 via zoekresultaten; creditkosten volgens SRC-10. Offerte opvragen bij het werkelijke volume |
+| B-16 | De organisatie werkt met Wlz en Wmo; pgb loopt af | Vastgesteld door de organisatie | INT-01. Pgb wordt niet meer aangenomen; bestaande pgb-overeenkomsten lopen nog |
+| B-17 | ZilliZ kan zelf documenten laten ondertekenen via het cliëntportaal | Leveranciersclaim, niet rechtstreeks gezien | SRC-15. Het gaat om een akkoordknop na inloggen; welk handtekeningniveau en welk bewijs dat oplevert, is onbekend. Navragen bij ZilliZ |
+| B-18 | ZilliZ heeft een koppeling met Signhost | Niet gevonden | Geen vermelding in zoekresultaten. Zonder koppeling verloopt Signhost via het webportaal met handmatig downloaden en uploaden. Navragen bij ZilliZ |
 
 De volledige toetsing staat in [Toetsing van het Gemini-onderzoek](toetsing-gemini-onderzoek.md).
 

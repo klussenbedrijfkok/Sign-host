@@ -2,7 +2,7 @@
 
 Dit project bereidt de keuze en inrichting van Signhost voor en bevat de opzet voor een praktische uitlegvideo. De zorgadministratie gaat vanuit huis werken; de beoogde kantoorlocatie is Bussum. Contracten moeten op afstand kunnen worden aangeboden, ondertekend, opgevolgd en opgeslagen.
 
-**Status op 11 november 2026:** het Gemini-onderzoek is ontvangen en getoetst. Vier dragende beweringen uit dat rapport houden geen stand, waaronder het pgb-verbod van de SVB op digitale handtekeningen. De contracten, financiering, interne werkwijze en Signhost-instellingen moeten nog worden aangeleverd. Er is nog geen geschiktheidsoordeel.
+**Status op 11 november 2026:** het Gemini-onderzoek is ontvangen en getoetst. Vier dragende beweringen uit dat rapport houden geen stand, waaronder het pgb-verbod van de SVB op digitale handtekeningen. Bekend is nu: financiering via Wlz en Wmo, pgb loopt af en wordt niet meer aangenomen, het dossiersysteem is ZilliZ. De eis van een natte handtekening komt van een collega en is nog niet aan een document of bepaling gekoppeld. De contractmodellen, de voorwaarden van zorgkantoor en gemeenten en de Signhost-instellingen ontbreken nog. Er is nog geen geschiktheidsoordeel.
 
 GitHub: [klussenbedrijfkok/Sign-host](https://github.com/klussenbedrijfkok/Sign-host). Deze repository is bij de voorbereiding als openbaar aangetroffen.
 
@@ -21,9 +21,9 @@ GitHub: [klussenbedrijfkok/Sign-host](https://github.com/klussenbedrijfkok/Sign-
 
 ## Eerstvolgende stappen
 
-1. Beantwoord de vragen onder "Eerst beantwoorden" in de [vragenlijst](onderzoek/vragenlijst.md).
-2. Leg de vragen voor Signhost schriftelijk voor en vraag de verwerkersovereenkomst, subverwerkerslijst en certificaten op.
-3. Vraag bij pgb-overeenkomsten de SVB of de verstrekker of een elektronisch getekend formulier wordt geaccepteerd.
+1. Vraag de collega van de zorgadministratie voor welk document de natte handtekening zou gelden en waar dat vandaan komt.
+2. Vraag ZilliZ wat ondertekenen via het cliëntportaal vastlegt en of er een koppeling met Signhost bestaat.
+3. Leg de vragen voor Signhost schriftelijk voor en vraag de verwerkersovereenkomst, subverwerkerslijst en certificaten op.
 4. Voeg contractmodellen en informatie over de huidige werkwijze toe volgens de invoerinstructies en vul de contractenmatrix per model aan.
 5. Beproef de voorgestelde werkwijze met fictieve gegevens en werk daarna het videoscript uit met de werkelijke schermen.
 
